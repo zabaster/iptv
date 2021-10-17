@@ -7,10 +7,16 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/105
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/1
 #EXTINF:-1,HINDI | COLORS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/2
+#EXTINF:-1,HINDI | AND TV HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/57
+#EXTINF:-1,HINDI | AND PICTURES HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/62
 #EXTINF:-1,HINDI | STAR BHARAT HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/4
 #EXTINF:-1,KIDS | NICK PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/120
+#EXTINF:-1,HINDI | DISNEY SD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/68
 #EXTINF:-1,KIDS | DISNEY XD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/149
 #EXTINF:-1,KIDS | CARTOON NETWORK
@@ -21,6 +27,8 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/372
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/373
 #EXTINF:-1,HINDI | HISTORY TV 18 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/116
+#EXTINF:-1,HINDI | NAT GEO WILD HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/47
 #EXTINF:-1,HINDI | DISCOVERY JEET HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/82
 #EXTINF:-1,HINDI | ZEE ZEST HD
@@ -39,6 +47,8 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/80
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/81
 #EXTINF:-1,ENGLISH | HISTORY TV 18 HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/83
+#EXTINF:-1,HINDI | DISCOVERY WORLD HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/67
 #EXTINF:-1,ENGLISH | NAT GEO WILD HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/90
 #EXTINF:-1,HINDI | ANIMAL PLANET WORLD HD
@@ -153,24 +163,14 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/33
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/34
 #EXTINF:-1,HINDI | B4U MOVIES
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/45
-#EXTINF:-1,HINDI | NAT GEO WILD HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/47
 #EXTINF:-1,HINDI | AND FLIX HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/54
 #EXTINF:-1,HINDI | COMEDY ACTIVE
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/55
-#EXTINF:-1,HINDI | AND TV HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/57
 #EXTINF:-1,HINDI | UTV ACTION
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/61
-#EXTINF:-1,HINDI | AND PICTURES HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/62
 #EXTINF:-1,HINDI | WARNER BROS
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/65
-#EXTINF:-1,HINDI | DISCOVERY WORLD HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/67
-#EXTINF:-1,HINDI | DISNEY SD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/68
 #EXTINF:-1,HINDI | MTV PLUS HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/72
 #EXTINF:-1,HINDI | CINEPLEX HD
@@ -221,7 +221,6 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/327
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/329
 #EXTINF:-1,HINDI | SONY MAX HD (Back-Up)
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/330
-
 #EXTINF:-1,HINDI | SONY MAX 2
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/363
 #EXTINF:-1,HINDI | JANTA TV
